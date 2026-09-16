@@ -59,7 +59,7 @@ export function Navbar() {
           <img
             src="/assets/logo-mark.png"
             alt={`${company.name} Logo`}
-            className="h-16 w-16 object-contain transition-all duration-500 md:h-24 md:w-24"
+            className="h-20 w-20 object-contain transition-all duration-500 md:h-32 md:w-32"
           />
         </a>
 
