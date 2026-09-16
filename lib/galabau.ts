@@ -108,7 +108,7 @@ export const galabau: GalabauConfig = {
     "machines": ""
   },
   "claim": "Gartenbau im Odenwald",
-  "heroSubline": "Michael und Benjamin Arnold aus Bad König. Planung, Pflaster, Terrasse, Naturstein und Pflege im festen Team. Einsatzgebiet: Odenwald und rund 40 km um Bad König.",
+  "heroSubline": "Michael und Benjamin Arnold aus Bad König.",
   "services": [
     {
       "key": "gartenneugestaltung",

@@ -131,9 +131,7 @@ export function Hero() {
               {galabau.claim}
             </h1>
 
-            {/* Auf dem Handy bleibt neben Claim und Buttons kein Platz fuer die
-                Subline, ohne dass der Hero gedraengt wirkt. */}
-            <p className="mt-5 hidden max-w-[46ch] text-[15px] leading-relaxed text-bone/85 drop-shadow-md md:block md:text-[17px]">
+            <p className="mt-5 max-w-[46ch] text-[15px] leading-relaxed text-bone/85 drop-shadow-md md:text-[17px]">
               {galabau.heroSubline}
             </p>
 
