@@ -1,0 +1,38 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/baustellen/betonplatte-und-vorbereiteter-erdbereich-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Betonplatte und vorbereiteter Erdbereich",
+    "subjectSlug": "betonplatte-und-vorbereiteter-erdbereich",
+    "description": "Eine Baustelle mit einer Betonplatte und angrenzendem, für die Bepflanzung vorbereitetem Erdbereich ist zu sehen."
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/baustellen/betonplatte-und-vorbereiteter-boden-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Betonplatte und vorbereiteter Boden",
+    "subjectSlug": "betonplatte-und-vorbereiteter-boden",
+    "description": "Das Foto zeigt eine Baustelle mit einer Betonplatte und angrenzendem, vorbereitetem Boden für weitere Landschaftsgestaltung."
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/baustellen/garten-im-bau-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Garten im Bau",
+    "subjectSlug": "garten-im-bau",
+    "description": "Ein Gartenbereich mit einer Betonplatte und neu angelegten Rasenflächen, der sich noch im Bau befindet."
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/_skipped/firmenlogo-gartentraum-odenwald-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Firmenlogo Gartentraum Odenwald",
+    "subjectSlug": "firmenlogo-gartentraum-odenwald",
+    "description": "Das Bild zeigt das Firmenlogo von Gartentraum Odenwald mit einem stilisierten Baum und dem Slogan 'Harmonie im Garten'."
+  }
+]
