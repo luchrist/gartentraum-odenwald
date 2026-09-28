@@ -108,7 +108,7 @@ export const galabau: GalabauConfig = {
     "machines": ""
   },
   "claim": "Gartenbau im Odenwald",
-  "heroSubline": "Michael und Benjamin Arnold aus Bad König.",
+  "heroSubline": "Michael und Benjamin Arnold.",
   "services": [
     {
       "key": "gartenneugestaltung",
@@ -594,7 +594,7 @@ export const galabau: GalabauConfig = {
     "photoUploadMaxFiles": 6,
     "photoUploadMaxMb": 8,
     "consentText": "Ich bin damit einverstanden, dass meine Angaben zur Bearbeitung meiner Anfrage gespeichert und verarbeitet werden. Die Daten werden nicht an Dritte weitergegeben.",
-    "responsePromise": "Wir melden uns in der Regel innerhalb von 24 Stunden an Werktagen."
+    "responsePromise": "Wir melden uns in der Regel innerhalb von 1-3 Werktagen."
   }
 };
 

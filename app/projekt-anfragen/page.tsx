@@ -9,7 +9,7 @@ import { buildWhatsappHref } from "@/lib/service-area";
 
 export const metadata: Metadata = {
   title: `Projekt anfragen | ${company.name}`,
-  description: `Gartenprojekt strukturiert anfragen bei ${company.name} in ${company.address.city}: Projektart, Fotos, Budgetrahmen. Antwort innerhalb von 24 Stunden an Werktagen.`
+  description: `Gartenprojekt strukturiert anfragen bei ${company.name} in ${company.address.city}: Projektart, Fotos, Budgetrahmen. Antwort innerhalb von 1-3 Werktagen.`
 };
 
 export default function ProjektAnfragenPage() {
