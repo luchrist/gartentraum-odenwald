@@ -8,6 +8,7 @@ export type GalabauServiceKey =
   | "terrassenbau"
   | "gartenpflege"
   | "zaun-sichtschutz"
+  | "carports-garagentore"
   | "bewaesserung"
   | "baumpflege"
   | "gewerbeflaechen";
@@ -438,6 +439,61 @@ export const galabau: GalabauConfig = {
       "seo": {
         "title": "Bewässerung in Bad König | Gartentraum Odenwald",
         "description": "Automatische Bewässerung für Rasen und Beete: Planung nach Druck und Durchfluss, Steuerung, Nachrüstung und Wartung."
+      }
+    },
+    {
+      "key": "carports-garagentore",
+      "slug": "carports-garagentore",
+      "label": "Carports & Garagentore",
+      "navLabel": "Carport & Tor",
+      "cta": "Carport anfragen",
+      "unit": "stk",
+      "teaser": "Carports aus Holz, Aluminium oder Stahl sowie Sektional- und Schwingtore, inklusive Fundament und Montage.",
+      "intro": "Carport und Garagentor gehören zur Zufahrt dazu. Wir planen beides zusammen mit der Fläche davor, damit Fundament, Gefälle und Entwässerung von Anfang an passen. Maße, Durchfahrtshöhe und Antrieb klären wir vor der Bestellung, nicht erst bei der Montage.",
+      "bullets": [
+        "Carports aus Holz, Aluminium oder Stahl, auch als Doppelcarport",
+        "Punkt- und Streifenfundamente passend zum Untergrund",
+        "Sektionaltore, Schwingtore und Seitenschiebetore mit elektrischem Antrieb",
+        "Dachentwässerung, Anschluss an die Zufahrt und Beleuchtung mitgeplant",
+        "Hinweise zu Grenzabstand und Genehmigung vor der Bestellung"
+      ],
+      "ablauf": [
+        {
+          "title": "Maße klären",
+          "text": "Stellplatzbreite, Durchfahrtshöhe und Fahrzeuggröße, gern mit Fotos der Einfahrt."
+        },
+        {
+          "title": "Untergrund prüfen",
+          "text": "Wir sehen uns Zufahrt, Boden, Gefälle und Grenzverlauf vor Ort an."
+        },
+        {
+          "title": "Angebot",
+          "text": "Fundament, Konstruktion, Tor und Antrieb als getrennte Positionen."
+        },
+        {
+          "title": "Montage",
+          "text": "Fundamente setzen, aufstellen, Tor einbauen, einstellen und einweisen."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Brauche ich für einen Carport eine Genehmigung?",
+          "a": "Das hängt von Größe, Höhe und Grenzabstand ab und wird in Hessen über die Bauordnung und die örtliche Satzung geregelt. Wir prüfen den konkreten Fall, bevor etwas bestellt wird."
+        },
+        {
+          "q": "Kann das alte Garagentor ersetzt werden?",
+          "a": "In der Regel ja. Entscheidend sind Sturzhöhe und Seitenraum. Wir messen die Öffnung auf und sagen, welcher Tortyp und welcher Antrieb dort passt."
+        }
+      ],
+      "image": "/assets/leistungen/carports-und-garagentore.webp",
+      "estimate": {
+        "minPerUnit": 4500,
+        "maxPerUnit": 14000,
+        "baseMin": 4500
+      },
+      "seo": {
+        "title": "Carports & Garagentore in Bad König | Gartentraum Odenwald",
+        "description": "Carports aus Holz, Aluminium oder Stahl und Garagentore mit Antrieb: Fundament, Montage und Anschluss an die Zufahrt aus einer Hand."
       }
     }
   ],
